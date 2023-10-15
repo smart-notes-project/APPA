@@ -1,0 +1,15 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/ambrosetemidayobako/fvm/versions/3.13.6
+FLUTTER_APPLICATION_PATH=/Users/ambrosetemidayobako/Desktop/Dev/mobile-apps/fuodz-vendor
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=/Users/ambrosetemidayobako/Desktop/Dev/mobile-apps/fuodz-vendor/lib/main.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.7.10
+FLUTTER_BUILD_NUMBER=56
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386 arm64
+EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9hNzk0Y2YyNjgxYzZjOWZlN2IyNjBlMGU4NGRlOTYyOThkYzljMThiLw==
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/ambrosetemidayobako/Desktop/Dev/mobile-apps/fuodz-vendor/.dart_tool/package_config.json
