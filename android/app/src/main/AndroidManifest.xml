@@ -25,7 +25,7 @@
 
     <application
         android:name="${applicationName}"
-        android:label="Glover Vendor"
+        android:label="مذاق كوين"
         android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/launcher_icon"
         tools:replace="android:label">
