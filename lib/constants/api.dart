@@ -4,7 +4,7 @@ import 'package:fuodz/services/auth.service.dart';
 
 class Api {
   static String get baseUrl {
-    return "https://extrasolutions.myperftop.com//api";
+    return "https://extrasolutions.myperftop.com/api";
     // return "http://192.168.8.145:8000/api";
   }
 
