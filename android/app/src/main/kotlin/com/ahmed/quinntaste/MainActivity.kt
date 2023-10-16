@@ -1,4 +1,4 @@
-package online.edentech.fuodzvendor
+package com.ahmed.quinntaste
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
