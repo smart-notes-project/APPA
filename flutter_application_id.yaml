@@ -1,7 +1,7 @@
 flutter_application_id:
   android:
-    id: "online.edentech.fuodzvendor"
-    name: "Glover Vendor"
+    id: "com.ahmed.quinntaste"
+    name: "quinn taste"
   ios:
-    id: "online.edentech.fuodzvendor"
-    name: "Glover Vendor"
+    id: "com.ahmed.quinntaste"
+    name: "quinn taste"
